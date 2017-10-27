@@ -1,7 +1,7 @@
-##ts_toolbox##
+## ts_toolbox ##
 A collection of scripts that I'm tired of rewriting.
 
-###Usage###
+### Usage ###
 - Clone the repository onto your system
 - Build it
 - Add the `bin/` folder to your path
